@@ -1,0 +1,13 @@
+{
+    "themes": [
+        {
+            "client_theme": "dark"
+        }
+    ],
+    "tts": [
+        {
+            "gender": "neutral",
+            "volume": "50"
+        }
+    ]
+}
