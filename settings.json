@@ -1,13 +1,13 @@
 {
     "themes": [
         {
-            "client_theme": "dark"
+            "client_theme": "light"
         }
     ],
     "tts": [
         {
-            "gender": "neutral",
-            "volume": "50"
+            "gender": "female",
+            "volume": "10"
         }
     ]
 }
